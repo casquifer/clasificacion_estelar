@@ -6,5 +6,5 @@ El repositorio esta conformado por un analisis extausivo del [data frame](https:
 
 **Autores**
 
-CASCO, Rodrigo
+CASCO, Rodrigo \
 GÓMEZ CIRANA, Jonathan
